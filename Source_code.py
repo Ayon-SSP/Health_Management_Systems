@@ -96,3 +96,4 @@ elif (lock_or_retrieve == 2):
         elif (food_or_excersise == 2):
             list = open("HARRY_Food.TXT")
             print(list.read())
+  
