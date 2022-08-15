@@ -19,6 +19,7 @@ def what_to_add_in_the_file():
     list.write("\n")
     list.write(content_of_Exercise_or_food)
     list.write("\n--------------------------------------------------")
+    list.close()
     print("UPDATE IS DONE👺")
 
 
